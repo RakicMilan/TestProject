@@ -1,6 +1,9 @@
-#include <iostream>
+import <iostream>;
+import Spreadables;
 
 int main()
 {
-	std::cout << "Hello world, hello Jenkins!";
+    std::cout << "Taking some bread.\n";
+    std::cout << butter() << "\n";
+    std::cout << jam() << "\n";
 }
