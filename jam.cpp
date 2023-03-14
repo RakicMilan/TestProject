@@ -3,5 +3,5 @@ import <string>;
 
 std::string jam()
 {
-    return "Spreading some jam.";
+	return "Spreading some jam.";
 }
